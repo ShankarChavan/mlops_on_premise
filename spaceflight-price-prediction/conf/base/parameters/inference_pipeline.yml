@@ -1,0 +1,14 @@
+# This is a boilerplate parameters config generated for pipeline 'inference_pipeline'
+# using Kedro 0.18.3.
+#
+# Documentation for this file format can be found in "Parameters"
+# Link: https://kedro.readthedocs.io/en/0.18.3/kedro_project_setup/configuration.html#parameters
+features:
+  - engines
+  - passenger_capacity
+  - crew
+  - d_check_complete
+  - moon_clearance_complete
+  - iata_approved
+  - company_rating
+  - review_scores_rating
